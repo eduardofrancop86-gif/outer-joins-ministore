@@ -24,6 +24,3 @@ Un caso típico en el mundo real es conciliar la información de dos departament
 1. Envíos que sí fueron cobrados correctamente.
 2. Cobros registrados que no tienen un envío asociado.
 3. Envíos realizados que no han sido cobrados.
-Envíos que sí fueron cobrados correctamente.
-Cobros registrados que no tienen un envío asociado.
-Envíos realizados que no han sido cobrados.
